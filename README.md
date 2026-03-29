@@ -1,5 +1,7 @@
 ## Fala galera! Kauan aqui, estudante de engenharia de software.
 
+Student at Universidade de Brasília
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
